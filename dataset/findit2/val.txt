@@ -1,0 +1,194 @@
+image,digital annotation,handwritten annotation,forged,forgery annotations
+X00016469612.png,1,1,1,"{'filename': 'X00016469612.png', 'size': 291659, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 174, 'y': 374, 'width': 9, 'height': 14}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Metadata', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 164, 'y': 373, 'width': 9, 'height': 15}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Metadata', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 318, 'y': 372, 'width': 13, 'height': 16}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Metadata', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 179, 'y': 396, 'width': 10, 'height': 18}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Other', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'aperçu'}}"
+X51005200931.png,0,1,0,0
+X51005230605.png,0,0,0,0
+X51005433538.png,0,1,0,0
+X51005441401.png,0,1,1,"{'filename': 'X51005441401.png', 'size': 358358, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 418, 'y': 595, 'width': 12, 'height': 24}, 'region_attributes': {'Modified area': {'CUT': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 416, 'y': 623, 'width': 15, 'height': 27}, 'region_attributes': {'Modified area': {'CUT': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 417, 'y': 674, 'width': 12, 'height': 37}, 'region_attributes': {'Modified area': {'CUT': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 414, 'y': 717, 'width': 14, 'height': 20}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 416, 'y': 743, 'width': 14, 'height': 17}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 418, 'y': 815, 'width': 13, 'height': 42}, 'region_attributes': {'Modified area': {'CUT': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 430, 'y': 764, 'width': 14, 'height': 24}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'paint'}}"
+X51005441407.png,0,1,0,0
+X51005442344.png,0,1,0,0
+X51005442376.png,0,1,0,0
+X51005442386.png,0,1,0,0
+X51005442392.png,0,1,0,0
+X51005444037.png,0,0,0,0
+X51005444040.png,0,0,0,0
+X51005444041.png,0,0,0,0
+X51005444046.png,0,0,0,0
+X51005447841.png,0,0,0,0
+X51005447844.png,0,0,0,0
+X51005447852.png,0,0,0,0
+X51005568890.png,0,0,1,"{'filename': 'X51005568890.png', 'size': 2888530, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 462, 'y': 637, 'width': 23, 'height': 35}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Metadata', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'gimp'}}"
+X51005568891.png,0,0,0,0
+X51005568899.png,0,0,0,0
+X51005582745.png,0,0,0,0
+X51005605333.png,0,0,1,"{'filename': 'X51005605333.png', 'size': 1418064, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 500, 'y': 1032, 'width': 36, 'height': 34}, 'region_attributes': {'Modified area': {'PIX': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'paint'}}"
+X51005605335.png,0,0,1,"{'filename': 'X51005605335.png', 'size': 1170486, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 28, 'y': 564, 'width': 18, 'height': 28}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Metadata', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 50, 'y': 566, 'width': 17, 'height': 28}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Metadata', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'aperçu'}}"
+X51005663272.png,0,1,0,0
+X51005663278.png,0,1,1,"{'filename': 'X51005663278.png', 'size': 1966131, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 406, 'y': 700, 'width': 18, 'height': 35}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Metadata', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 424, 'y': 699, 'width': 12, 'height': 38}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Metadata', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'paint'}}"
+X51005676538.png,0,1,0,0
+X51005676539.png,0,1,0,0
+X51005676543.png,0,1,0,0
+X51005676548.png,0,1,0,0
+X51005677327.png,0,1,0,0
+X51005677332.png,0,1,0,0
+X51005677334.png,0,1,0,0
+X51005677335.png,0,1,0,0
+X51005705804.png,0,0,0,0
+X51005711404.png,0,0,1,"{'filename': 'X51005711404.png', 'size': 497122, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 357, 'y': 694, 'width': 19, 'height': 46}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Metadata', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 216, 'y': 693, 'width': 19, 'height': 49}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Metadata', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'paint'}}"
+X51005711446.png,0,0,0,0
+X51005711454.png,0,0,1,"{'filename': 'X51005711454.png', 'size': 756166, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 244, 'y': 741, 'width': 49, 'height': 39}, 'region_attributes': {'Modified area': {'IMI': True}, 'Entity type': 'Metadata', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'paint'}}"
+X51005712021.png,0,0,0,0
+X51005712038.png,0,0,0,0
+X51005715006.png,1,0,0,0
+X51005719873.png,0,0,0,0
+X51005719874.png,0,0,0,0
+X51005719895.png,0,0,0,0
+X51005719896.png,0,0,0,0
+X51005719898.png,0,0,1,"{'filename': 'X51005719898.png', 'size': 1573447, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 202, 'y': 718, 'width': 20, 'height': 30}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 265, 'y': 717, 'width': 18, 'height': 32}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 781, 'y': 1012, 'width': 17, 'height': 33}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 758, 'y': 1306, 'width': 20, 'height': 32}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Other', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'gimp'}}"
+X51005719904.png,0,0,1,"{'filename': 'X51005719904.png', 'size': 470888, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 710, 'y': 1388, 'width': 121, 'height': 45}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 730, 'y': 776, 'width': 116, 'height': 44}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Product', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 725, 'y': 895, 'width': 116, 'height': 39}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 728, 'y': 999, 'width': 115, 'height': 40}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Product', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'paint'}}"
+X51005722668.png,0,0,0,0
+X51005724624.png,1,0,0,0
+X51005724626.png,1,1,0,0
+X51005741929.png,0,1,0,0
+X51005741944.png,0,1,0,0
+X51005745187.png,0,1,0,0
+X51005745214.png,0,1,0,0
+X51005749912.png,0,1,0,0
+X51005757282.png,0,1,0,0
+X51005757292.png,0,1,0,0
+X51005757304.png,0,1,1,"{'filename': 'X51005757304.png', 'size': 1315270, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 96, 'y': 547, 'width': 26, 'height': 36}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Metadata', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 161, 'y': 545, 'width': 23, 'height': 39}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Metadata', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'paint3d'}}"
+X51005757323.png,0,1,0,0
+X51005757346.png,0,1,0,0
+X51005763964.png,0,1,0,0
+X51005764154.png,0,1,0,0
+X51005806678.png,0,1,0,0
+X51005806696.png,0,1,0,0
+X51005806702.png,0,1,1,"{'filename': 'X51005806702.png', 'size': 1587301, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 249, 'y': 849, 'width': 29, 'height': 35}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Product', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 296, 'y': 781, 'width': 23, 'height': 41}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 549, 'y': 785, 'width': 21, 'height': 33}, 'region_attributes': {'Modified area': {'None': True}, 'Original area': 'yes', 'Entity type': 'Product'}}, {'shape_attributes': {'name': 'rect', 'x': 530, 'y': 785, 'width': 21, 'height': 33}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 582, 'y': 911, 'width': 23, 'height': 35}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 601, 'y': 914, 'width': 19, 'height': 35}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 551, 'y': 1015, 'width': 25, 'height': 37}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 576, 'y': 1009, 'width': 19, 'height': 33}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 582, 'y': 1079, 'width': 19, 'height': 25}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 599, 'y': 1075, 'width': 17, 'height': 31}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 410, 'y': 1237, 'width': 23, 'height': 37}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 429, 'y': 1239, 'width': 15, 'height': 27}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'paint3d'}}"
+X51006008086.png,0,0,1,"{'filename': 'X51006008086.png', 'size': 1543612, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 593, 'y': 1008, 'width': 19, 'height': 37}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'paint'}}"
+X51006008095.png,0,0,0,0
+X51006008166.png,0,0,0,0
+X51006248253.png,0,0,1,"{'filename': 'X51006248253.png', 'size': 1409239, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 389, 'y': 536, 'width': 14, 'height': 24}, 'region_attributes': {'Modified area': {'PIX': True}, 'Entity type': 'Metadata', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'aperçu'}}"
+X51006311764.png,0,0,1,"{'filename': 'X51006311764.png', 'size': 4558430, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 540, 'y': 637, 'width': 12, 'height': 24}, 'region_attributes': {'Modified area': {'None': True}, 'Original area': 'yes', 'Entity type': 'Metadata'}}, {'shape_attributes': {'name': 'rect', 'x': 511, 'y': 634, 'width': 16, 'height': 29}, 'region_attributes': {'Modified area': {'None': True}, 'Original area': 'yes', 'Entity type': 'Metadata'}}, {'shape_attributes': {'name': 'rect', 'x': 370, 'y': 896, 'width': 15, 'height': 28}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 387, 'y': 895, 'width': 15, 'height': 31}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 442, 'y': 894, 'width': 29, 'height': 29}, 'region_attributes': {'Modified area': {'None': True}, 'Original area': 'yes', 'Entity type': 'Product'}}, {'shape_attributes': {'name': 'rect', 'x': 556, 'y': 892, 'width': 28, 'height': 32}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 613, 'y': 891, 'width': 15, 'height': 29}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 608, 'y': 967, 'width': 18, 'height': 27}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 628, 'y': 965, 'width': 14, 'height': 32}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 556, 'y': 1002, 'width': 28, 'height': 28}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 613, 'y': 1002, 'width': 16, 'height': 28}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 556, 'y': 1078, 'width': 29, 'height': 29}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 614, 'y': 1079, 'width': 15, 'height': 28}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 554, 'y': 1148, 'width': 33, 'height': 34}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 615, 'y': 1153, 'width': 15, 'height': 27}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 584, 'y': 632, 'width': 12, 'height': 29}, 'region_attributes': {'Modified area': {'None': True}, 'Original area': 'yes', 'Entity type': 'Metadata'}}, {'shape_attributes': {'name': 'rect', 'x': 359, 'y': 1495, 'width': 18, 'height': 26}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 378, 'y': 1495, 'width': 12, 'height': 27}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 429, 'y': 597, 'width': 11, 'height': 28}, 'region_attributes': {'Modified area': {'None': True}, 'Original area': 'yes', 'Entity type': 'Metadata'}}, {'shape_attributes': {'name': 'rect', 'x': 395, 'y': 1492, 'width': 14, 'height': 27}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 160, 'y': 1499, 'width': 20, 'height': 27}, 'region_attributes': {'Modified area': {'None': True}, 'Original area': 'yes', 'Entity type': 'Total/payment'}}, {'shape_attributes': {'name': 'rect', 'x': 420, 'y': 1492, 'width': 16, 'height': 29}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 411, 'y': 598, 'width': 16, 'height': 27}, 'region_attributes': {'Modified area': {'None': True}, 'Original area': 'yes', 'Entity type': 'Metadata'}}, {'shape_attributes': {'name': 'rect', 'x': 438, 'y': 1493, 'width': 17, 'height': 28}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 572, 'y': 1491, 'width': 18, 'height': 27}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 418, 'y': 1567, 'width': 16, 'height': 32}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Metadata', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 503, 'y': 1567, 'width': 33, 'height': 29}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Metadata', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 616, 'y': 1488, 'width': 35, 'height': 32}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'gimp'}}"
+X51006311779.png,1,1,0,0
+X51006311780.png,0,1,0,0
+X51006327953.png,0,1,0,0
+X51006328913.png,0,1,0,0
+X51006329395.png,0,1,0,0
+X51006334770.png,0,1,0,0
+X51006334819.png,0,1,0,0
+X51006335547.png,0,1,0,0
+X51006387812.png,0,1,0,0
+X51006387950.png,0,1,0,0
+X51006387973.png,0,1,0,0
+X51006388066.png,0,1,0,0
+X51006393377.png,0,1,1,"{'filename': 'X51006393377.png', 'size': 662532, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 405, 'y': 692, 'width': 53, 'height': 24}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 404, 'y': 657, 'width': 54, 'height': 27}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Product', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'kolourpaint'}}"
+X51006414392.png,0,1,0,0
+X51006414429.png,0,1,0,0
+X51006414483.png,0,1,0,0
+X51006414600.png,0,1,0,0
+X51006414636.png,0,1,1,"{'filename': 'X51006414636.png', 'size': 69738080, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 1835, 'y': 2599, 'width': 80, 'height': 80}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Metadata', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'gimp'}}"
+X51006414675.png,0,1,0,0
+X51006414719.png,0,1,0,0
+X51006414728.png,0,1,1,"{'filename': 'X51006414728.png', 'size': 2111794, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 2743, 'y': 3339, 'width': 37, 'height': 84}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 2811, 'y': 3471, 'width': 42, 'height': 95}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 2779, 'y': 3342, 'width': 42, 'height': 80}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Product', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 2850, 'y': 3467, 'width': 39, 'height': 96}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Product', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 2822, 'y': 3618, 'width': 32, 'height': 95}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 2809, 'y': 3758, 'width': 32, 'height': 71}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 2105, 'y': 3988, 'width': 47, 'height': 69}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'paint'}}"
+X51006441474.png,0,1,0,0
+X51006466055.png,1,1,0,0
+X51006466056.png,1,1,0,0
+X51006466070.png,1,1,0,0
+X51006466778.png,1,0,0,0
+X51006502533.png,0,0,0,0
+X51006554833.png,0,0,0,0
+X51006555072.png,0,1,0,0
+X51006555125.png,0,0,1,"{'filename': 'X51006555125.png', 'size': 693905, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 482, 'y': 548, 'width': 12, 'height': 20}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Product', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 152, 'y': 517, 'width': 12, 'height': 20}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Product', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 482, 'y': 589, 'width': 10, 'height': 23}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 296, 'y': 764, 'width': 13, 'height': 23}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Other', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'aperçu'}}"
+X51006555780.png,0,0,0,0
+X51006555835.png,0,0,0,0
+X51006556596.png,0,0,0,0
+X51006556658.png,0,0,0,0
+X51006556732.png,0,0,0,0
+X51006556815.png,0,0,0,0
+X51006556821.png,0,0,0,0
+X51006556851.png,0,0,1,"{'filename': 'X51006556851.png', 'size': 1056843, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 479, 'y': 922, 'width': 19, 'height': 31}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 459, 'y': 821, 'width': 15, 'height': 36}, 'region_attributes': {'Modified area': {'None': True}, 'Original area': 'yes', 'Entity type': 'Total/payment'}}, {'shape_attributes': {'name': 'rect', 'x': 427, 'y': 774, 'width': 24, 'height': 37}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 450, 'y': 775, 'width': 19, 'height': 35}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 481, 'y': 770, 'width': 15, 'height': 39}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 500, 'y': 770, 'width': 16, 'height': 38}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 481, 'y': 822, 'width': 14, 'height': 32}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 444, 'y': 921, 'width': 19, 'height': 35}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 425, 'y': 876, 'width': 22, 'height': 31}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 447, 'y': 875, 'width': 15, 'height': 31}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 498, 'y': 647, 'width': 15, 'height': 23}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 511, 'y': 649, 'width': 11, 'height': 19}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 543, 'y': 647, 'width': 10, 'height': 22}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 530, 'y': 743, 'width': 14, 'height': 19}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'paint'}}"
+X51006557119.png,0,0,0,0
+X51006557169.png,0,0,1,"{'filename': 'X51006557169.png', 'size': 2201517, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 51, 'y': 787, 'width': 352, 'height': 44}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 61, 'y': 835, 'width': 467, 'height': 116}, 'region_attributes': {'Modified area': {'CUT': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'gimp'}}"
+X51006557173.png,0,0,0,0
+X51006557194.png,0,0,0,0
+X51006557210.png,0,0,0,0
+X51006619346.png,0,0,0,0
+X51006619545.png,0,0,0,0
+X51006619563.png,0,0,0,0
+X51006619567.png,0,0,0,0
+X51006619709.png,0,0,1,"{'filename': 'X51006619709.png', 'size': 1021836, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 198, 'y': 323, 'width': 193, 'height': 42}, 'region_attributes': {'Modified area': {'IMI': True}, 'Entity type': 'Company', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'paint', 'Comment': ""J'ai écrit par dessus le ticket""}}"
+X51006619783.png,0,0,0,0
+X51006619785.png,0,1,0,0
+X51006620161.png,0,0,0,0
+X51006620176.png,0,0,0,0
+X51006714066.png,0,1,0,0
+X51006828199.png,0,0,0,0
+X51006828201.png,0,1,1,"{'filename': 'X51006828201.png', 'size': 2700103, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 402, 'y': 322, 'width': 28, 'height': 23}, 'region_attributes': {'Modified area': {'PIX': True}, 'Entity type': 'Company', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 510, 'y': 322, 'width': 37, 'height': 25}, 'region_attributes': {'Modified area': {'CUT': True}, 'Entity type': 'Company', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 579, 'y': 660, 'width': 35, 'height': 35}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Other', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 702, 'y': 656, 'width': 44, 'height': 42}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Other', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 597, 'y': 1621, 'width': 25, 'height': 39}, 'region_attributes': {'Modified area': {'None': True}, 'Original area': 'yes', 'Entity type': 'Total/payment'}}, {'shape_attributes': {'name': 'rect', 'x': 626, 'y': 1696, 'width': 2, 'height': 2}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 429, 'y': 1624, 'width': 39, 'height': 25}, 'region_attributes': {'Modified area': {'CUT': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 602, 'y': 1679, 'width': 17, 'height': 32}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'gimp'}}"
+X51006828217.png,0,0,0,0
+X51006857132.png,0,0,0,0
+X51006857660.png,0,0,1,"{'filename': 'X51006857660.png', 'size': 2009687, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 761, 'y': 1461, 'width': 20, 'height': 38}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 784, 'y': 1681, 'width': 17, 'height': 29}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'gimp'}}"
+X51006912960.png,0,1,0,0
+X51006912976.png,0,1,0,0
+X51006913030.png,0,1,0,0
+X51006913051.png,0,1,0,0
+X51006913068.png,0,1,0,0
+X51006913073.png,0,1,0,0
+X51007103641.png,0,1,0,0
+X51007103687.png,0,1,0,0
+X51007135247.png,0,1,1,"{'filename': 'X51007135247.png', 'size': 662868, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 321, 'y': 1104, 'width': 39, 'height': 53}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 363, 'y': 1103, 'width': 24, 'height': 53}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'paint'}}"
+X51007225399.png,0,1,0,0
+X51007225417.png,0,1,1,"{'filename': 'X51007225417.png', 'size': 340546, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 64, 'y': 350, 'width': 178, 'height': 48}, 'region_attributes': {'Modified area': {'CUT': True}, 'Entity type': 'Other', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'paint'}}"
+X51007225442.png,0,1,0,0
+X51007231275.png,0,1,1,"{'filename': 'X51007231275.png', 'size': 762499, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 2115, 'y': 1776, 'width': 110, 'height': 57}, 'region_attributes': {'Modified area': {'CPO': True}, 'Entity type': 'Metadata', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'aperçu'}}"
+X51007339095.png,0,0,0,0
+X51007339097.png,0,1,0,0
+X51007339110.png,0,0,0,0
+X51007339114.png,0,0,0,0
+X51007339117.png,0,0,1,"{'filename': 'X51007339117.png', 'size': 2986505, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 477, 'y': 781, 'width': 58, 'height': 21}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 477, 'y': 826, 'width': 61, 'height': 19}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 474, 'y': 881, 'width': 62, 'height': 20}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 487, 'y': 914, 'width': 46, 'height': 21}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 483, 'y': 712, 'width': 48, 'height': 21}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'gimp'}}"
+X51007339120.png,0,0,0,0
+X51007339121.png,0,0,0,0
+X51007339131.png,0,0,0,0
+X51007339133.png,0,0,1,"{'filename': 'X51007339133.png', 'size': 2773741, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 493, 'y': 189, 'width': 13, 'height': 18}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Company', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 481, 'y': 564, 'width': 15, 'height': 19}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Other', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 173, 'y': 295, 'width': 36, 'height': 18}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Other', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 299, 'y': 295, 'width': 22, 'height': 17}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Other', 'Original area': 'yes'}}, {'shape_attributes': {'name': 'rect', 'x': 217, 'y': 270, 'width': 37, 'height': 16}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Company', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 256, 'y': 268, 'width': 23, 'height': 17}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Company', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 506, 'y': 763, 'width': 11, 'height': 18}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 507, 'y': 797, 'width': 9, 'height': 15}, 'region_attributes': {'Modified area': {'None': True}, 'Entity type': 'Total/payment', 'Original area': 'yes'}}], 'file_attributes': {'Software used': 'gimp'}}"
+X51007339135.png,0,1,0,0
+X51007339136.png,0,0,0,0
+X51007339139.png,0,0,0,0
+X51007339157.png,0,0,0,0
+X51007339650.png,0,0,0,0
+X51007339651.png,0,0,0,0
+X51007339657.png,0,0,0,0
+X51007419197.png,0,0,1,"{'filename': 'X51007419197.png', 'size': 343480, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 9, 'y': 571, 'width': 515, 'height': 244}, 'region_attributes': {'Modified area': {'CPI': True, 'Autre': True, 'CUT': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'paint'}}"
+X51007579725.png,0,1,1,"{'filename': 'X51007579725.png', 'size': 389337, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 436, 'y': 799, 'width': 22, 'height': 28}, 'region_attributes': {'Modified area': {'CUT': True}, 'Entity type': 'Total/payment', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'kolourpaint'}}"
+X51007579726.png,0,1,0,0
+X51007846283.png,0,1,0,0
+X51007846309.png,0,1,0,0
+X51007846310.png,0,0,0,0
+X51007846370.png,0,1,0,0
+X51007846372.png,0,1,0,0
+X51007846391.png,0,1,0,0
+X51008030563.png,0,0,0,0
+X51008042777.png,0,0,0,0
+X51008042779.png,0,0,0,0
+X51008042783.png,0,0,0,0
+X51008042792.png,0,0,0,0
+X51008064061.png,0,0,0,0
+X51008099041.png,0,0,0,0
+X51008099048.png,0,0,0,0
+X51008099049.png,0,0,0,0
+X51008099054.png,0,0,0,0
+X51008099083.png,0,0,0,0
+X51008099085.png,0,0,0,0
+X51008099089.png,0,0,0,0
+X51008099100.png,0,0,0,0
+X51008114281.png,0,0,0,0
+X51008114283.png,0,0,1,"{'filename': 'X51008114283.png', 'size': 3278323, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 222, 'y': 1554, 'width': 43, 'height': 40}, 'region_attributes': {'Modified area': {'CPI': True}, 'Entity type': 'Other', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'gimp'}}"
+X51008114284.png,0,0,0,0
+X51008123446.png,0,0,0,0
+X51008123476.png,0,0,0,0
+X51008142032.png,0,0,1,"{'filename': 'X51008142032.png', 'size': '354619', 'regions': [{'shape_attributes': {'name': 'rect', 'x': 280, 'y': 741, 'width': 23, 'height': 38}, 'region_attributes': {'Modified area': 'CPI', 'Entity type': 'Metadata', 'Original area': 'no'}}, {'shape_attributes': {'name': 'rect', 'x': 337, 'y': 741, 'width': 18, 'height': 39}, 'region_attributes': {'Modified area': 'CPI', 'Entity type': 'Metadata', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'gimp'}}"
+X51008142060.png,0,0,0,0
+X51008142061.png,0,0,0,0
+X51008142062.png,0,0,0,0
+X51008142065.png,0,0,0,0
+X51008164510.png,0,0,0,0
+X51008164997.png,0,0,0,0
+X51008164999.png,0,0,0,0
+X51009008095.png,0,0,1,"{'filename': 'X51009008095.png', 'size': 1062400, 'regions': [{'shape_attributes': {'name': 'rect', 'x': 208, 'y': 1175, 'width': 385, 'height': 39}, 'region_attributes': {'Modified area': {'CUT': True}, 'Entity type': 'Metadata', 'Original area': 'no'}}], 'file_attributes': {'Software used': 'paint'}}"
