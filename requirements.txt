@@ -1,1 +1,4 @@
+numpy>=1.24.0
+Pillow>=10.0.0
+vertexai>=1.0.0
 google-cloud-aiplatform>=1.43.0

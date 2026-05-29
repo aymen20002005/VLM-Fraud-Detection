@@ -1,41 +1,29 @@
 # VLM Fraud Detection
 
-A multimodal fraud detection system that uses Google's Gemini 2.5 Pro vision-language model to analyze PDF documents for fraudulent content.
+A Python library to detect fraud on PNG document images using Google Vertex AI and a few-shot selection pipeline for legitimate examples.
 
 ## Overview
 
-This project processes PDF documents and uses Gemini's advanced vision capabilities to detect potential fraud indicators such as:
-- Visual inconsistencies and tampering
-- Altered fields
-- Unrealistic values
-- Suspicious patterns
+This package is designed to support research-grade image fraud detection with GCP authentication. It includes:
+- multimodal fraud detection for PNG document images
+- a few-shot selection pipeline for legitimate non-fraud examples
+- a diversity-based selection strategy using image embeddings
+- support for Google Cloud Project authentication via environment variables
 
-The system provides:
-- **Fraud probability** (0-1 scale)
-- **Fraud classification** (fraud or legitimate)
-- **Suspicious elements** list
-- **Visual observations** from the document
+## Package Usage
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd VLM-Fraud-Detection
-```
-
-2. Install dependencies:
+Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Set up environment variables:
+Configure your environment:
 ```bash
 cp .env.example .env
 ```
 
-4. Edit `.env` and add your Google Cloud Project ID:
-```
+Edit `.env` with your Google Cloud settings:
+```bash
 PROJECT_ID=your-gcp-project-id
 LOCATION=us-central1
 MODEL_NAME=gemini-2.5-pro
@@ -43,48 +31,71 @@ TEMPERATURE=0.2
 MAX_OUTPUT_TOKENS=1024
 ```
 
-## Usage
+Example usage:
+```python
+from vlm_fraud_detection import FraudDetector, FewShotSelector
 
-Process a PDF document:
+selector = FewShotSelector()
+nonfraud_dataset = [
+    "dataset/findit2/val/X00016469619.png",
+    "dataset/findit2/val/X00016469620.png",
+    # ...
+]
+selected_examples = selector.select_diverse_examples(nonfraud_dataset, k=10)
+
+detector = FraudDetector()
+result = detector.detect_image(
+    image_path="dataset/findit2/test/X00016469619.png",
+    fewshot_example_paths=selected_examples,
+)
+print(result)
+```
+
+## CLI Usage
+
+Run the package from the command line:
 ```bash
-python main.py path/to/document.pdf
+python main.py --image path/to/document.png --dataset-dir path/to/nonfraud-dataset --fewshot-count 10
 ```
 
-### Output Example
+Or as a module:
+```bash
+python -m vlm_fraud_detection --image path/to/document.png --dataset-dir path/to/nonfraud-dataset
+```
 
-```
-=== FRAUD DETECTION RESULT ===
-fraud_probability: 0.15
-fraud_label: legitimate
-suspicious_elements: ['Signature alignment appears off']
-visual_observations: ['Document quality is good', 'All fields are clearly printed']
-explanation: The document shows minor inconsistencies but overall appears legitimate...
-```
+## Few-shot Selection
+
+The few-shot pipeline selects representative legitimate examples using these steps:
+1. compute fixed-size embeddings for each PNG image
+2. measure Euclidean distances between embeddings
+3. choose a set of examples that are far apart in embedding space
+
+This helps the model see a broader range of normal documents and improves non-fraud calibration.
 
 ## Project Structure
 
 ```
 .
-├── main.py                 # Entry point
-├── fraud_detector.py       # Core fraud detection logic
-├── config.py              # Configuration settings
-├── prompts.py             # LLM prompt templates
-├── requirements.txt       # Python dependencies
-├── .env                   # Environment variables (local, not in git)
-├── .env.example          # Environment variables template
-└── dataset/              # Sample datasets
+├── pyproject.toml
+├── requirements.txt
+├── main.py
+├── src/
+│   └── vlm_fraud_detection/
+│       ├── __init__.py
+│       ├── config.py
+│       ├── detector.py
+│       ├── embeddings.py
+│       ├── fewshots.py
+│       ├── prompts.py
+│       └── cli.py
+├── .env.example
+└── dataset/
 ```
 
-## How It Works
+## Notes
 
-1. **PDF Loading**: The system reads the PDF file directly in binary format
-2. **Model Processing**: Sends the PDF to Gemini 2.5 Pro as a multimodal input
-3. **Analysis**: The model analyzes the visual content for fraud indicators
-4. **JSON Response**: Returns structured fraud assessment
-
-## License
-
-[Add your license here]
+- This library currently supports PNG images only.
+- The GCP account must be configured with Application Default Credentials or equivalent Vertex AI access.
 
 ## References
 
