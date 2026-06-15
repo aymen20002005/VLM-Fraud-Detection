@@ -1,4 +1,17 @@
 numpy>=1.24.0
 Pillow>=10.0.0
+
+# Vertex AI / Gemini
 vertexai>=1.0.0
 google-cloud-aiplatform>=1.43.0
+
+# OpenAI GPT-4V
+openai>=1.0.0
+
+# Anthropic Claude
+anthropic>=0.25.0
+
+# CLIP embeddings (paper default)
+openai-clip>=1.0.1
+torch>=2.0.0
+torchvision>=0.15.0

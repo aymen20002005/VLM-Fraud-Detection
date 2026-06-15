@@ -21,8 +21,21 @@ classifiers = [
 dependencies = [
   "numpy>=1.24.0",
   "Pillow>=10.0.0",
+  # Vertex AI / Gemini
   "vertexai>=1.0.0",
-  "google-cloud-aiplatform>=1.43.0"
+  "google-cloud-aiplatform>=1.43.0",
+]
+
+[project.optional-dependencies]
+openai = ["openai>=1.0.0"]
+anthropic = ["anthropic>=0.25.0"]
+clip = ["openai-clip>=1.0.1", "torch>=2.0.0", "torchvision>=0.15.0"]
+all = [
+  "openai>=1.0.0",
+  "anthropic>=0.25.0",
+  "openai-clip>=1.0.1",
+  "torch>=2.0.0",
+  "torchvision>=0.15.0",
 ]
 
 [project.urls]
