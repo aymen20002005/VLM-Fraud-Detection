@@ -1,6 +1,6 @@
 # VLM Fraud Detection
 
-[![PyPI downloads](https://img.shields.io/pepy/dt/vlm-fraud-detection?label=total%20PyPI%20downloads)](https://pypi.org/project/vlm-fraud-detection/)
+[![PyPI downloads](https://img.shields.io/pepy/dt/vlm-fraud-detection?label=downloads)](https://pypi.org/project/vlm-fraud-detection/)
 
 A Python library to detect fraud on PNG document images using Google Vertex AI and a few-shot selection pipeline for legitimate examples.
 
